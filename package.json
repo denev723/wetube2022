@@ -1,0 +1,21 @@
+{
+  "name": "wetube2022",
+  "version": "1.0.0",
+  "description": "nomadcoders 유튜브 클론코딩 복습",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denev723/wetube2022.git"
+  },
+  "author": "denev<denev723@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denev723/wetube2022/issues"
+  },
+  "homepage": "https://github.com/denev723/wetube2022#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
